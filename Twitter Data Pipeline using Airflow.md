@@ -1,4 +1,4 @@
-Twitter API:
+# PROJECT WORKFLOW:
 
 1. Search for the Twitter API and understand its capabilities and limitations.
 Twitter Developer App:
