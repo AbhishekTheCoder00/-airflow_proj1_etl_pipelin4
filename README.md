@@ -23,8 +23,6 @@ Create Twitter DAG, establish S3 storage.Deploy and run DAG in Airflow, monitor,
 
 ## Project Workflow
 
-## Twitter API:
-
 ### Step 1=>
 Search for the Twitter API and understand its capabilities and limitations. Twitter Developer App:
 ### Step 2=>
